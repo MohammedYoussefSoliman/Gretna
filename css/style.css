@@ -1,11 +1,174 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+    transition: all 1s;
+}
+
+h5
+{
+    font-size: 18px;
+}
+.headBar
+{
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+.phone span
+{
+    color: #ff742e;
+    padding-right: 10px;
+}
+.phone
+{
+    padding: 20px 30px 10px;
+}
+
+.iconz
+{
+    font-size: 15px;
+    color: rgba(0,0,0,0.2);
+    border-right: 1px solid rgba(0,0,0,0.1);
+    margin: 0;
+    padding: 20px 30px 10px;
+
+}
+
+.iconz i
+{
+    margin: 0 5px;
+}
+
+.iconz i:hover
+{
+    color: rgba(0,0,0,1);
+}
+
+.headQuot
+{
+    padding: 20px 30px 10px 40px;
+    border-right: 1px solid rgba(0,0,0,0.1);
+
+}
+
+.headQuot h5 a
+{
+    text-decoration: none;
+    color: rgba(0,0,0,1);
+}
+.headQuot h5:hover a
+{
+    color: #ff742e;
+}
+
+.navs
+{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.navbar-brand
+{
+    width: 155px;
+}
+
+.navItems
+{
+    padding-left: 15px;
+}
+
+.navItems a
+{
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #000 !important;
+}
+
+.navItems:hover a
+{
+    color: #ff742e !important;
+}
+
+.navItems:hover i
+{
+    color: #ff742e !important;
+}
+
+.View
+{
+    height: 400px;
+    background-color: #F5F5F5;
+    background-image: url(http://tonatheme.com/m3/gretna/wp-content/themes/gretna/images/background/bg-page-title.png);
+    background-repeat: no-repeat;
+    background-size: 95%;
+    background-position: center; 
+    overflow: hidden;
+}
+
+.veiwContent
+{
+    margin-top: 200px;
+    float: left;
+    margin-left: 200px;
+    width: 100%;
+    padding-left: 100px;
+}
+
+.veiwContent h1
+{
+    font-size: 56px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.veiwContent p
+{
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 120%;
+}
+
+.veiwContent span:hover
+{
+     color: #ff742e;
+}
+
+
+.veiwContent p:before
+{
+    content: "";
+    width: 100px;
+    height: 2px;
+    background-color: #000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .about_us
 {
-	margin-top: 120px;
+	margin-top: 100px;
 }
 
 .about_us .best
 {
 	margin-bottom: 80px;
+
 }
 
 .about_us .best h2
@@ -14,7 +177,6 @@
 	color: #13192d;
 	font-weight: 700;
 	margin-bottom: 20px;
-	font-family: 'Poppins', sans-serif;
 }
 
 .about_us .best p
@@ -24,7 +186,6 @@
     opacity: 0.70;
     line-height: 1.8em;
 	margin-bottom: 20px;
-	font-family: 'Poppins', sans-serif;
 }
 
 .about_us .ours h3
@@ -33,7 +194,6 @@
 	font-weight: 600;
     color: #13192d;
 	margin-bottom: 30px;
-	font-family: 'Poppins', sans-serif;
 }
 
 .about_us .ours p
