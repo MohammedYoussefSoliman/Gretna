@@ -1,0 +1,66 @@
+.about_us
+{
+	margin-top: 120px;
+}
+
+.about_us .best
+{
+	margin-bottom: 80px;
+}
+
+.about_us .best h2
+{
+	font-size: 40px;
+	color: #13192d;
+	font-weight: 700;
+	margin-bottom: 20px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.about_us .best p
+{
+	font-size: 20px;
+    color: #13192d;
+    opacity: 0.70;
+    line-height: 1.8em;
+	margin-bottom: 20px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.about_us .ours h3
+{
+	font-size: 28px;
+	font-weight: 600;
+    color: #13192d;
+	margin-bottom: 30px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.about_us .ours p
+{
+	font-size: 16px;
+    color: #13192d;
+    opacity: 0.80;
+    line-height: 1.8em;
+	margin-bottom: 25px;
+	font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
